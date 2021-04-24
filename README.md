@@ -10,7 +10,7 @@ The goal of this project is to predict Cilia by using the frames of grayscale vi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Dataset:
  
-The data can be found on GCP:  gs://uga-dsp/project3
+The data can be found on GCP:  [gs://uga-dsp/project3](gs://uga-dsp/project3)
 
 The data is structured into 2 subfolders: data and masks
 
