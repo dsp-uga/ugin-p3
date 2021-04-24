@@ -23,6 +23,7 @@ videos where cilia is.
 ## UNET
 
 In this project we have used  a library called Segmentation Models, which is a python library for Image Segmentation. This library supports 4 models: Unet, FPN, Linknet, PSPNet.
+
 We have used Unet for this project. UNet is a convolutional neural network architecture, which is mostly used for Bio Medical Image Segmentation.
 
 ## Authors
